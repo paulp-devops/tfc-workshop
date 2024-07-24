@@ -1,0 +1,43 @@
+Nice work! To review, you've done the following:
+
+Forked & connected your code in GitHub to HCP Terraform
+Created a new HCP Terraform organization
+Created your workspaces
+Created variables sets
+Linked your TF state files between workspaces
+
+
+Nice work! To review, in this lab you have:
+
+Provisioned a VPC & related networking
+Provisioned a managed Kubernetes Cluster in AWS
+Provisioned security groups
+
+Nice work! To review, in this lab you:
+
+Deployed the e-commerce application, Storedog
+Deployed the Datadog Agent
+Setup the Datadog integration for AWS
+
+
+
+Great work completing this lab! You have now completed all the activities in this workshop. To recap, in this workshop you learned:
+
+How to setup a HCP Terraform Account
+How to create TFC organizations & workspaces
+How to provision an EKS cluster with AWS
+How to deploy a microservices application to EKS
+How to deploy Datadog Agents to EKS with Helm
+How to enable AWS integration in Datadog
+How to create Datadog resources with Terraform
+Note
+The AWS org you used in this workshop will be shut down after you complete the lab. Since you're using your own HCP Terraform account, you can remove the associated workspaces, variable sets, and organizations if you wish.
+
+For more information about these topics, see the Datadog documentation:
+
+Getting Started with AWS : https://docs.datadoghq.com/getting_started/integrations/aws/
+Integration for AWS Overview : https://docs.datadoghq.com/integrations/amazon_web_services/#overview
+Kubernetes Overview : https://docs.datadoghq.com/containers/kubernetes/
+Log Management Overview : https://docs.datadoghq.com/logs/
+Application Performance Monitoring (APM) : https://docs.datadoghq.com/tracing/
+
